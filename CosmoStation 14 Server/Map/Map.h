@@ -2,11 +2,19 @@
 #ifndef _MAP_H_
 #define _MAP_H_
 
+#define MAP_WIDTH 16
+#define MAP_HEIGHT 16
+
 class Map;
 class Tile;
 
 class Map {
+private:
 
+	Tile* mapTiles[MAP_WIDTH][MAP_HEIGHT];
+
+public:
+	Map(int width, int height);
 };
 
 class Tile {
