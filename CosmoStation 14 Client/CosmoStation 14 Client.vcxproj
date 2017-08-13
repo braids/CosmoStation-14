@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CB904925-D0FE-44DA-8AE2-80340D7DF2F4}</ProjectGuid>
+    <ProjectGuid>{0C5A3E7C-5FA9-4304-8230-EE88567B4ECE}</ProjectGuid>
     <RootNamespace>CosmoStation14Client</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>CosmoStation 14 Client</ProjectName>
