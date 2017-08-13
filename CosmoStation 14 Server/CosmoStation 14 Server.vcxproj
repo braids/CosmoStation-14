@@ -116,13 +116,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CS14Server.cpp" />
+    <ClCompile Include="Map\Map.cpp" />
     <ClCompile Include="OnCleanup.cpp" />
     <ClCompile Include="OnEvent.cpp" />
     <ClCompile Include="OnInit.cpp" />
     <ClCompile Include="OnLoop.cpp" />
+    <ClCompile Include="Map\Tile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CS14Server.h" />
+    <ClInclude Include="Map\Map.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
