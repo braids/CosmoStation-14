@@ -19,9 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DEBEB8E1-852C-4390-AE94-78FBE8921A2D}</ProjectGuid>
-    <RootNamespace>CS14Server</RootNamespace>
+    <ProjectGuid>{CB904925-D0FE-44DA-8AE2-80340D7DF2F4}</ProjectGuid>
+    <RootNamespace>CosmoStation14Client</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>CosmoStation 14 Client</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
